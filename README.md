@@ -5,4 +5,4 @@ I am a programmer who worked on the original game which was presented at the 202
 
 Please consider checking out my [Game Resources repo](https://github.com/anarchistcatgirl/GameResources) where I usually store assets that can be used for free by anyone.
 
-NOTE: The contents of this repository are my own original work and may not be copied or redistributed in part or in whole without explicit permission from myself. I may consider releasing this under the MIT license in the future.
+NOTE: The contents of this repository are my own original work and may not be copied or redistributed in part or in whole without explicit permission from myself.
